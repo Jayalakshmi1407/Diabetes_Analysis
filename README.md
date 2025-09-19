@@ -23,7 +23,7 @@ It provides descriptive statistics, visualizations, and predictive modeling to u
 -> 🚀 Deployment
 
 The app is hosted on Streamlit Cloud.
-👉 [Click here to open the app](https://share.streamlit.io) (replace with your actual Streamlit link after deployment)
+👉 [https://diabetesanalysis-wuz8abvwuskpnm4zuqra5w.streamlit.app/](url)
 
 ---
 
